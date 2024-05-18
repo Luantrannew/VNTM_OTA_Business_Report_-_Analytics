@@ -4,7 +4,7 @@
 This repository contains a project aimed at analyzing and predicting the business situation on OTA channels for VNTM, a travel business. The project encompasses preprocessing raw data, primarily employing regex for data cleansing, and leveraging APIs from various open sources. The analysis is conducted using Python and Tableau, with detailed reporting and data description provided in the report.
 
 ## Preprocessing
-The preprocessing phase involves cleaning raw data, which includes manually input data. The primary method used for cleaning is regex, along with leveraging APIs from open sources to enhance data quality and accuracy.
+The preprocessing phase involves cleaning raw data, which includes manually input data. The primary method used for cleaning is regex, along with leveraging APIs from open sources to generate the nationality for deeper analysis.
 
 ## Analysis
 Deep analysis is performed using Python and Tableau, focusing on correlation and trend analysis to extract insights into the business situation on OTA channels. The analysis aims to uncover patterns, trends, and relationships within the data to support decision-making and strategy development.
